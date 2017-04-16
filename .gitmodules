@@ -1,0 +1,12 @@
+[submodule "verification/openface"]
+	path = verification/openface
+	url = https://github.com/cmusatyalab/openface
+[submodule "verification/facenet"]
+	path = verification/facenet
+	url = https://github.com/davidsandberg/facenet
+[submodule "verification/faceplusplus"]
+	path = verification/faceplusplus
+	url = git@github.com:FacePlusPlus/facepp-python-sdk.git
+[submodule "verification/deepface"]
+	path = verification/deepface
+	url = git@github.com:RiweiChen/DeepFace.git
