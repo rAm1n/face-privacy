@@ -19,3 +19,6 @@
 [submodule "FaceCompletion"]
 	path = FaceCompletion
 	url = git@github.com:Yijunmaverick/GenerativeFaceCompletion.git
+[submodule "dcgan-completion.tensorflow"]
+	path = dcgan-completion.tensorflow
+	url = git@github.com:rAm1n/dcgan-completion.tensorflow.git
